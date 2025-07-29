@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Anime-Suggester
 A Program to challenge my own skills and build a useful tool.
 =======
@@ -51,4 +51,4 @@ To create a simple program that can suggest anime titles randomly to the user.
 
 - [Download Project Overview (DOCX)](Documentation/Project-Overview.docx)
 - [Download Project Overview (PDF)](Documentation/Project-Overview.pdf)
->>>>>>> 2d56efe (Documentationand Structure)
+
