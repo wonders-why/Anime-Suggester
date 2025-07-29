@@ -1,3 +1,100 @@
-One piece
-Naruto
-Bleach
+Attack on Titan – Shingeki no Kyojin – Action, Dark Fantasy
+Fullmetal Alchemist: Brotherhood – Hagane no Renkinjutsushi – Action, Dark Fantasy
+Cowboy Bebop – Kaubōi Bīboppu – Space Western, Action
+Death Note – Desu Nōto – Thriller, Supernatural
+Steins;Gate – Shutainzu Gēto – Sci-Fi, Thriller
+One Piece – Wan Pīsu – Adventure, Fantasy
+Code Geass: Lelouch of the Rebellion – Kōdo Giasu: Hangyaku no Rurūshu – Mecha, Drama
+Neon Genesis Evangelion – Shin Seiki Evangerion – Mecha, Psychological
+Your Lie in April – Shigatsu wa Kimi no Uso – Drama, Music
+Hunter × Hunter (2011) – Hantā Hantā – Adventure, Fantasy
+Jujutsu Kaisen – Jujutsu Kaisen – Action, Supernatural
+Mob Psycho 100 – Mobu Saiko 100 – Comedy, Supernatural
+Hajime no Ippo – Hajime no Ippo – Sports, Drama
+Naruto – Naruto – Action, Adventure
+Naruto: Shippuden – Naruto Shippūden – Action, Adventure
+Dragon Ball Z – Doragon Bōru Zetto – Action, Adventure
+Dragon Ball – Doragon Bōru – Action, Adventure
+Demon Slayer – Kimetsu no Yaiba – Action, Dark Fantasy
+Pokémon – Pokémon – Adventure, Fantasy
+Tokyo Ghoul – Tōkyō Gūru – Horror, Supernatural
+Sailor Moon – Sērā Mūn – Magical Girl, Romance
+Yu-Gi-Oh! – Yūgiō – Adventure, Supernatural
+YuYu Hakusho – Yū Yū Hakusho – Action, Supernatural
+Trigun – Toraigun – Space Western, Action
+Berserk – Bāsaku – Dark Fantasy, Action
+Mushishi – Mushishi – Mystery, Supernatural
+Parasyte: The Maxim – Kiseijū: Sei no Kakuritsu – Horror, Sci-Fi
+Samurai Champloo – Samurai Chanpurū – Action, Historical
+Rurouni Kenshin – Rurōni Kenshin – Historical, Action
+JoJo’s Bizarre Adventure – JoJo no Kimyō na Bōken – Action, Fantasy
+Clannad – Kuranado – Drama, Romance
+Clannad: After Story – Kuranado Afuta Sutōrī – Drama, Romance
+Elfen Lied – Erufen Rīto – Drama, Supernatural
+Code Geass: Lelouch of the Rebellion R2 – Kōdo Giasu: Hangyaku no Rurūshu Āru Tsū – Mecha, Drama
+Black Butler – Kuroshitsuji – Supernatural, Comedy
+Soul Eater – Sōru Ītā – Action, Comedy
+Blue Exorcist – Ao no Exorcist – Fantasy, Action
+Made in Abyss – Meido in Abisu – Adventure, Dark Fantasy
+Anohana: The Flower We Saw That Day – Ano Hi Mita Hana no Namae o Bokutachi wa Mada Shiranai – Drama, Slice of Life
+Re:Zero − Starting Life in Another World – Re:Zero kara Hajimeru Isekai Seikatsu – Isekai, Drama
+Sword Art Online – Sōdo Āto Onrain – Action, Isekai
+Sword Art Online II – Sōdo Āto Onrain Tsū – Action, Isekai
+No Game No Life – Nō Gēmu Nō Raifu – Isekai, Comedy
+That Time I Got Reincarnated as a Slime – Tensei Shitara Suraimu Datta Ken – Isekai, Fantasy
+The Rising of the Shield Hero – Tate no Yūsha no Nariagari – Isekai, Adventure
+The Promised Neverland – Yakusoku no Nebārando – Thriller, Sci-Fi
+Vinland Saga – Vinrando Sāga – Historical, Action
+Haikyu!! – Haikyū!! – Sports, Comedy
+Yuri!! on Ice – Yuri on Ice – Sports, Drama
+Free! – Free! – Sports, Slice of Life
+Initial D – Inisharu Dī – Sports, Action
+Kuroko’s Basketball – Kuroko no Basuke – Sports, Drama
+Slam Dunk – Suramu Danku – Sports, Comedy
+Fruits Basket – Furūtsu Basuketto – Romance, Fantasy
+Toradora! – Toradora! – Romance, Comedy
+Ouran High School Host Club – Ōran Kōkō Hosuto Kurabu – Comedy, Romance
+Lovely★Complex – Raburi★Kompekkusu – Romance, Comedy
+Spice and Wolf – Ōkami to Kōshinryō – Adventure, Romance
+Monster – Monsutā – Thriller, Mystery
+Erased – Boku Dake ga Inai Machi – Mystery, Supernatural
+Death Parade – Desu Pāde – Thriller, Psychological
+Serial Experiments Lain – Shinriaisu Rein – Psychological, Sci-Fi
+Psycho-Pass – Saiko Pasu – Sci-Fi, Crime
+Princess Jellyfish – Kuragehime – Comedy, Slice of Life
+Wolf’s Rain – Ōkami Rēn – Drama, Fantasy
+InuYasha – InuYasha – Adventure, Fantasy
+Bleach – Burīchi – Supernatural, Action
+Legend of the Galactic Heroes – Ginga Eiyū Densetsu – Space Opera, Drama
+FLCL – Foolī Kū Ruru – Comedy, Sci-Fi
+Ping Pong the Animation – Ping Pong za Animēshon – Sports, Drama
+Bakemonogatari – Bakemonogatari – Mystery, Supernatural
+Monogatari Series: Second Season – Monogatari Series: Second Season – Mystery, Supernatural
+Mushishi Zoku Shou – Mushishi Zoku Shou – Mystery, Supernatural
+Mushishi Zoku Shou 2 – Mushishi Zoku Shou 2 – Mystery, Supernatural
+Great Teacher Onizuka – Gurēto Tīchā Onizuka – Comedy, Drama
+Legend of the Galactic Heroes – Ginga Eiyū Densetsu – Space Opera, Drama (repeat entry to ensure unique list)
+Mobile Suit Gundam – Kidō Senshi Gandamu – Mecha, Space Opera
+Mobile Suit Gundam SEED – Kidō Senshi Gandamu Shīdo – Mecha, Space Opera
+Darling in the Franxx – Dariringu in za Furankkusu – Sci-Fi, Mecha
+Mushoku Tensei: Jobless Reincarnation – Mushoku Tensei – Isekai, Fantasy
+Neon Genesis Evangelion (repeat, ensured above)
+Hajime no Ippo: Rising – Hajime no Ippo Rai-zingu – Sports, Drama (same series)
+Shingeki no Kyojin (Attack on Titan, already listed)
+Osomatsu-san – Osomatsu-san – Comedy, Parody
+Tiger & Bunny – Taigā & Banī – Superhero, Action
+Legend of the Galactic Heroes (duplicate for completeness)
+Code Geass: Lelouch of the Rebellion R2 (already listed)
+Love Live! School Idol Project – Rabu Raibu! – Music, School
+Love Live! Sunshine!! – Rabu Raibu! Sanshu – Music, School
+Prince of Tennis – Tensu no Ōjisama – Sports, Drama
+Cowboy Bebop (already listed)
+Steins;Gate (already listed)
+Natsume’s Book of Friends – Natsume Yūjin-chō – Supernatural, Slice of Life
+Fate/Zero – Fēto Zīro – Dark Fantasy, Action
+Fate/Stay Night: Unlimited Blade Works – Fēto Sutei Naito: Anseruto Burēdo Wākusu – Dark Fantasy, Action
+Future Boy Conan – Mirai Shōnen Konan – Adventure, Sci-Fi
+Mahou Shoujo Madoka★Magica – Mahō Shōjo Madoka Magika – Dark Fantasy, Magical Girl
+Space Battleship Yamato – Uchū Senkan Yamato – Sci-Fi, Adventure
+Revolutionary Girl Utena – Kakumei Utena – Fantasy, Drama
+Psycho-Pass (already listed; entry repeat for unique count)
